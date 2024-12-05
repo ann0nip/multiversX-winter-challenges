@@ -1,0 +1,56 @@
+{
+  "mnemonic": "village humble what grow minor spy seven eternal horse cube dose push demand trade cheap black manual nation absorb mushroom interest shine toast tuna",
+  "accounts": {
+    "shard0": [
+      {
+        "address": "erd1q03w6eyh83ssywqyh634tftpjml2zg8tsrzqs05tk5ypjlyy55kq6pd9nw",
+        "privateKey": "eec2d5fe77c2fea26f177b9866d6d17bfa44b813c5c7f5a634665b6eb8d16db0",
+        "txHash": "3b8787bff0c4bd7d1c460fae55eace85581dbcbe4d3c6f4ccb535b4da6e9fa1d"
+      },
+      {
+        "address": "erd1u6g0tgrt7tgywdjff8x6rrpxemgrg4dattqc0a7ye4r8ftw668uq5p4laq",
+        "privateKey": "136d561deeefdf5ccd369c6a280933964f8a228d45800d9f629a83f8c3dcc60f",
+        "txHash": "5de7db72929dc3c81e0c90f02929adfb92ef244d4dfb2aa3267dcc3e3847637f"
+      },
+      {
+        "address": "erd1dj50v8lkjkzpapa32qvaydfvpsdtqwgn9hgjs06tm80zcg3hqnkqaylay7",
+        "privateKey": "5be61931cc1eb53821f261d43b52fe11dae4f9f4fa1f7bd3b5914bdd5e752493",
+        "txHash": "03454778b04166a0832556f698c7c404acc99df7671ade6cf000a7019fddf189"
+      }
+    ],
+    "shard1": [
+      {
+        "address": "erd1eyny0eupxt8tznz824yx50ur3z49q85tlkh0jnxzw4rtpm9qckas2d5rqs",
+        "privateKey": "c5640898ba050b65668ccdad2a5024384b9546abd8555062f38367b02e31fd9b",
+        "txHash": "e9a20867f8cab6c8619bb437aa827607a9361eac0d5c5209268ec17ebe321727"
+      },
+      {
+        "address": "erd154ny56q0f08sjsc5pd09707cf4kc6qp4fs5hn48wxhz566s0g3wsm38y3k",
+        "privateKey": "36eba54159a948ec902d296ffb3e62aba60946f5e78981791644c97fa7bfac53",
+        "txHash": "a702d66da90c03fd8022f3c589e44c82a0798257c0bcd2784c4d09c356a08afe"
+      },
+      {
+        "address": "erd1pqhqh7yvkk6uuuwyl82l5ee7xdmus94k72kvlprzd878s6ad29vs0pprjn",
+        "privateKey": "fab8bf7a054045b3876c1d2be7ef33918b054ec53e1a02de4a422fe9e327d5ea",
+        "txHash": "57fe0ea2d18666f7005f9dad8c0d5c6231c67f5b1e258ca46cf066b389dbd73e"
+      }
+    ],
+    "shard2": [
+      {
+        "address": "erd1kq4vq0xg4uerjxfwh2lr6vwlw8v3vthgvyfmusax0m8v7jmqgqeqat5z9a",
+        "privateKey": "2fdff0512909e886bc4439a6fd07d20f18579dee1966f2081c0d379f30621c48",
+        "txHash": "374db184c00b4f28e12c71bb0ce0b1cea5cb66bb0689045536af2aec46035cac"
+      },
+      {
+        "address": "erd1yhsrw9fv693m4a55mczmna30h2f7g76n3w0stpwe5r64vy7tew8qr5qapc",
+        "privateKey": "8c0ff14e6fb33c2516157c980deebb775de6d4ed082344f3beceb4eb046e5999",
+        "txHash": "67437636da0f2be7caa1bef6ba5a87c9f4adcf2a6f9016b25ad2b759e713ac47"
+      },
+      {
+        "address": "erd1950ztpq63h2h6gcqvyndyc5ae9ly30e9nkpkddgxtkx9jle4vf9qkmz40r",
+        "privateKey": "e6bc41945888517df30e94c950aeaecf729d082d0b0d890b7b03463e8c238220",
+        "txHash": "78c1482cf4f5af837396c149b3492db49e95d0fe195dedff812b425eb0ae0b4b"
+      }
+    ]
+  }
+}
