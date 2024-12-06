@@ -34,7 +34,7 @@ Each day's exercise is organized in its own folder:
     -   Contains the script for December 4th.
     -   Example file: `4December/script.js`.
 
----
+### In the `3December` folder, there is also an `accounts_results.json` file, where you can find the seed, public address, private address, and the transaction hash, as requested in the exercise. Of course, this is not recommended and is completely insecure, but it is just for example purposes.
 
 ## **How to Run a Script**
 
