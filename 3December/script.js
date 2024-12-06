@@ -1,4 +1,4 @@
-const { Mnemonic, Address, AddressComputer } = require('@multiversx/sdk-core');
+const { Mnemonic, AddressComputer } = require('@multiversx/sdk-core');
 const fs = require('fs');
 
 // Number of shards in the network (excluding the meta-shard)
